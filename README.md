@@ -1,6 +1,6 @@
 <p align="center">
 
-# Dialyn
+# Dialyn - Architecture Business AI Apps
 
 ### Um protocolo universal para integração de Agentes Inteligentes com sistemas empresariais.
 
