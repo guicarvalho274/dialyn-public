@@ -223,7 +223,7 @@ Todo Engine deverá implementar **obrigatoriamente** as seguintes operações:
 | `Query()` | Consultar informações do App  |
 
 
-> Este contrato deverá permanecer **igual para todos os Engines**. Consulte a documentação de [capabilities](https://github.com/guicarvalho274/dialyn/master/docs/apps/architeture/capabilities/README.md) para entender melhor.
+> Este contrato deverá permanecer **igual para todos os Engines**. Consulte a documentação de [capabilities](./capabilities/README.md) para entender melhor.
 
 ---
 

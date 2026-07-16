@@ -308,4 +308,4 @@ flowchart TD
 | 6 | 🏗️ **Padronização** do comportamento dos Engines |
 | 7 | 🚀 **Escalabilidade** para centenas de integrações futuras |
 
-Consulte todos os DTOs relacionados ao App [dtos](/docs/apps/architeture/dtos/README.md)
+Consulte todos os DTOs relacionados ao App [dtos](./dtos/README.md)

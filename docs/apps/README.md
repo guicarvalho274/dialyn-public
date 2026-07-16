@@ -234,16 +234,16 @@ Cada App possui sua própria documentação contendo autenticação, permissões
 
 | App | Documentação |
 |-----|-------------|
-| Mercado Pago | [`/docs/apps/assets/mercado-pago/README.md`](https://github.com/guicarvalho274/dialyn/master/docs/app/assets/mercado-pago/README.md) |
-| Google Calendar | [`/docs/apps/assets/google-calendar/README.md`](https://github.com/guicarvalho274/dialyn/master/docs/app/assets/google-calendar/README.md) |
-| Stripe | [`/docs/apps/assets/stripe/README.md`](https://github.com/guicarvalho274/dialyn/master/docs/app/assets/stripe/README.md) |
-| Trello | [`/docs/apps/assets/trello/README.md`](https://github.com/guicarvalho274/dialyn/master/docs/app/assets/trello/README.md) |
-| Notion | [`/docs/apps/assets/notion/README.md`](https://github.com/guicarvalho274/dialyn/master/docs/app/assets/notion/README.md) |
-| Asaas | [`/docs/apps/assets/asaas/README.md`](https://github.com/guicarvalho274/dialyn/master/docs/app/assets/asaas/README.md) |
-| Salesforce | [`/docs/apps/assets/sales-force/README.md`](https://github.com/guicarvalho274/dialyn/master/docs/app/assets/sales-force/README.md) |
-| Hotmart | [`/docs/apps/assets/hotmart/README.md`](https://github.com/guicarvalho274/dialyn/master/docs/app/assets/hotmart/README.md) |
-| Shopify | [`/docs/apps/assets/shopify/README.md`](https://github.com/guicarvalho274/dialyn/master/docs/app/assets/shopify/README.md) |
-| Typeform | [`/docs/apps/assets/type-form/README.md`](https://github.com/guicarvalho274/dialyn/master/docs/app/assets/type-form/README.md) |
+| Mercado Pago | [`/docs/apps/assets/mercado-pago/README.md`](./assets/mercado-pago/README.md) |
+| Google Calendar | [`/docs/apps/assets/google-calendar/README.md`](./assets/google-calendar/README.md) |
+| Stripe | [`/docs/apps/assets/stripe/README.md`](./assets/stripe/README.md) |
+| Trello | [`/docs/apps/assets/trello/README.md`](./assets/trello/README.md) |
+| Notion | [`/docs/apps/assets/notion/README.md`](./assets/notion/README.md) |
+| Asaas | [`/docs/apps/assets/asaas/README.md`](./assets/asaas/README.md) |
+| Salesforce | [`/docs/apps/assets/sales-force/README.md`](./assets/sales-force/README.md) |
+| Hotmart | [`/docs/apps/assets/hotmart/README.md`](./assets/hotmart/README.md) |
+| Shopify | [`/docs/apps/assets/shopify/README.md`](./assets/shopify/README.md) |
+| Typeform | [`/docs/apps/assets/type-form/README.md`](./assets/type-form/README.md) |
 
 ---
 
@@ -255,7 +255,7 @@ Cada App possui sua própria documentação contendo autenticação, permissões
 | Engine de Apps | Executa as ações |
 | App | Responsável pela integração |
 
-🔗 [Arquitetura](https://github.com/guicarvalho274/dialyn/master/docs/apps/architeture.md)
+🔗 [Arquitetura](./architeture/README.md)
 
 ## Filosofia
 

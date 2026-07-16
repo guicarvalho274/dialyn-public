@@ -365,5 +365,9 @@ Agora veja um padrão que engloba todos os conceitos para cada resource
 
 | Resource | Operations |
 |----------|------------|
-| Payments | [payments](payments/README.md)
+| Payments | [payments](payments/README.md)  |
+| Commerce | [commerce](commerce/README.md) |
+| CRM | [crm](crm/README.md) |
+| Productivity | [productivity](productivity/README.md) |
+
 
